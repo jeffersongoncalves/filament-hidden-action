@@ -9,6 +9,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/filament-hidden-action.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-hidden-action)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/filament-hidden-action/fix-php-code-style-issues.yml?branch=1.x&label=code%20style&style=flat-square)](https://github.com/jeffersongoncalves/filament-hidden-action/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3A1.x)
 [![Total Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-hidden-action.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-hidden-action)
+[![License](https://img.shields.io/packagist/l/jeffersongoncalves/filament-hidden-action.svg?style=flat-square)](LICENSE.md)
 
 This package provides a `HiddenAction` for Filament, allowing you to define actions that are not visible in the UI but can still be triggered programmatically or via keyboard shortcuts.
 
