@@ -20,6 +20,13 @@ This package provides a `HiddenAction` for Filament, allowing you to define acti
 - PHP 8.2 or higher
 - Filament 5.0
 
+## Compatibility
+
+| Branch | Filament | Package version |
+|--------|----------|-----------------|
+| [1.x](https://github.com/jeffersongoncalves/filament-hidden-action/tree/1.x) | 4.x | `^1.0` |
+| [2.x](https://github.com/jeffersongoncalves/filament-hidden-action/tree/2.x) | 5.x | `^2.0` |
+
 ## Installation
 
 You can install the package via composer:
